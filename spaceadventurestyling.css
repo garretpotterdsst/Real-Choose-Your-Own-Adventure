@@ -1,0 +1,149 @@
+html{
+  margin:0;
+}
+  a:visited{
+  color:white;
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+.intro{
+  font-size:60px;
+  font-family: 'Play';
+  color:yellow;
+}
+.story{
+  font-size:60px;
+  font-family: 'Play';
+  color:yellow;
+  margin:0;
+}
+.background{
+  background-image:url(http://jonvilma.com/images/stars-6.jpg);
+}
+.i-am{
+  color:white;
+  text-align:center;
+font-family:'Space Mono';
+font-size:50px;
+}
+.i-will{
+  color:white;
+  text-align:center;
+font-family:'Space Mono';
+font-size:50px;
+padding-top:20px;
+}
+.characters{
+list-style-type:none;
+color:white;
+margin-bottom:50px;
+font-family:'PT Sans';
+}
+.choices{
+list-style-type:none;
+color:white;
+margin-bottom:50px;
+font-family:'PT Sans';
+}
+.choicebox{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:50px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.tryagain{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:30px;
+width:95%;
+background-color:red;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.spacing{
+  padding:150px;
+}
+.more-spacing{
+  padding:200px;
+}
+.super-spacing{
+  padding:300px;
+}
+.engineer{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:50px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.miner{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:30px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.agent{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:30px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
+.student{
+  border-style: solid;
+  border-width: 2.5px;
+  padding:10px;
+  margin-top:30px;
+  margin-bottom:50px;
+width:95%;
+background-color:#009b3a;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+font-weight: 300;
+word-spacing: 30px;
+}
